@@ -1,0 +1,8 @@
+pandas
+requests
+numpy
+folium
+plotly
+dash
+scikit-learn
+sqlalchemy
